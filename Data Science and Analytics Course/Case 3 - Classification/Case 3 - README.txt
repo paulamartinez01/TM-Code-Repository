@@ -1,1 +1,0 @@
-Run the Churn Train Dataset in Weka to learn a classification model of your choosing. You are to find the best classification model based on the appropriate performance metric (use your best judgement) to predict the Churn Test Dataset. Your grade will be based on how well your chosen model performed.
