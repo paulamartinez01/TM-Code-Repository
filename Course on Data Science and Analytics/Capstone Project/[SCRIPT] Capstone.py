@@ -292,26 +292,3 @@ plt.xlabel("False Positive Rate")
 plt.ylabel("True Positive Rate")
 plt.title('Receiver Operating Characteristic')
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
