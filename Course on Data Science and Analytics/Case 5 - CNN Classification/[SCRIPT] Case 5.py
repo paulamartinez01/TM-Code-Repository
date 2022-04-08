@@ -138,25 +138,3 @@ plt.imshow(my_image.reshape(28,28), cmap='autumn')
 myimage_prediction = model.predict(my_image.reshape(1,28,28,1))
 myimage_prediction = np.argmax(myimage_prediction, axis=1)
 print(myimage_prediction)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
