@@ -70,7 +70,3 @@ sdumtvdata = data.frame(scale(dumtvdata, center = TRUE, scale = TRUE))
 
 sfinalfit = lm(revenue ~ ., data=sdumtvdata)
 summary(sfinalfit)
-
-
-
-
