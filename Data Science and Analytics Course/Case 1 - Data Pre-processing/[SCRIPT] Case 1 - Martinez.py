@@ -145,18 +145,3 @@ print(repeat_call.sum()/len(bysubid))
 
 #%% 6B AVERAGE NUMBER OF REPEAT CALLS FOR SUBSCRIBERS WITH AT LEAST ONE REPEAT CALL
 print(repeat_call.sum()/len(repeat_call))
-
-#%% NUMBER OF REPEAT CALLS PER SUBSCRIBER
-
-
-
-
-
-
-
-
-
-
-
-
-
