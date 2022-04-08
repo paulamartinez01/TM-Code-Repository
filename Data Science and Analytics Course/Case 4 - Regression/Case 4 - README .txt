@@ -1,0 +1,1 @@
+Problem description: Answer the questions. Submit a word document containing the answers to each question and R code used before the deadline.
