@@ -5,7 +5,8 @@
 > my Introduction to Computer Programming Course and Data Science and Analytics Course.
 
 ## General Information
-- `Introduction to Computer Programming Course Description:` The course covers fundamental concepts in computer programming. Topics covered include basic computer concepts, algorithm design and representation, data types 
+`Introduction to Computer Programming Course Description:` The course covers fundamental concepts in computer programming. Topics covered include basic computer concepts, algorithm design and representation, data types 
 and variables, control statements, strings, lists, and subprograms.
-- `Data Science and Analytics Course Description:` Design and implementation considerations of an end-to-end data analytics system from source information 
+
+`Data Science and Analytics Course Description:` Design and implementation considerations of an end-to-end data analytics system from source information 
 system data extraction to decision making
