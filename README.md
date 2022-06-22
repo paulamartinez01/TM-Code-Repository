@@ -1,7 +1,7 @@
-# Code Repository for Application to Thinking Machines
+# Code Repository of Projects and Cases
 > Hey there!
 > 
-> I'm Pau, and this is the official repository for my internship application to Thinking Machines. The repository contains projects and cases submitted to
+> I'm Pau, and this is the official repository of my projects and cases. The repository contains projects and cases submitted to
 > my Introduction to Computer Programming Course and Data Science and Analytics Course.
 
 ## General Information
